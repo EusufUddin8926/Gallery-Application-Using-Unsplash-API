@@ -10,6 +10,9 @@ https://drive.google.com/drive/folders/1wz3iMWTU6WYuIN7hOq3fMir1w4wDGHn_?usp=sha
 ### Project OverView
 
 ![1](https://user-images.githubusercontent.com/68120268/181595023-7f497f45-5254-41f9-9c5e-37e20b5666c6.jpeg)
+
+#
+#
 ![2](https://user-images.githubusercontent.com/68120268/181595097-3b62cf71-9a9c-4f4e-bc01-b166eba71075.jpeg)
 
 #
@@ -17,10 +20,16 @@ https://drive.google.com/drive/folders/1wz3iMWTU6WYuIN7hOq3fMir1w4wDGHn_?usp=sha
 
 
 ### Using Component
- 1. RecyclerView
- 2. ZoomImageView
- 3. AlertDialog
- 4. Intent
+ 1. MVVM Architure
+ 2. Unsplash API
+ 3. Retrofit 2
+ 4. OKHTTP3
+ 5. Glide
+ 6. Livedata
+ 7. RecyclerView
+ 8. ZoomImageView
+ 9. AlertDialog
+ 10. Intent
 
 ### Using Defendency
    1. implementation 'androidx.core:core-ktx:1.0.2'
@@ -31,5 +40,5 @@ https://drive.google.com/drive/folders/1wz3iMWTU6WYuIN7hOq3fMir1w4wDGHn_?usp=sha
    6. implementation 'com.squareup.okhttp3:logging-interceptor:3.12.1'
    7. implementation 'com.github.bumptech.glide:glide:4.13.2'
        annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
-   9. annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
-   10. implementation 'com.jsibbold:zoomage:1.3.1'
+      annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
+   8. implementation 'com.jsibbold:zoomage:1.3.1'
